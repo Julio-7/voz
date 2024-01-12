@@ -1,0 +1,3 @@
+<h1>Assistente de Voz Simples</h1>
+
+Este código em Python é um assistente de voz chamado "Jarvis". Ele pode cumprimentar o usuário de acordo com a hora do dia, ouvir comandos de voz, e executar ações como abrir o Google, fechar o programa, mostrar a hora, abrir um documento, ou abrir o Google Maps para uma localização específica. O assistente utiliza reconhecimento de fala, manipulação de tempo, abertura de navegador, e execução de arquivos para realizar essas tarefas. O programa fica em um loop contínuo, sempre pronto para receber novos comandos do usuário. Em resumo, é um sistema simples de assistência por voz com funcionalidades específicas.
